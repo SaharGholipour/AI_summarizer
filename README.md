@@ -8,3 +8,7 @@ Search arXiv, preview papers, and generate short technical summaries. Choose bet
   - **Gemini (legacy)** via `google-generativeai`, or
   - **Local** models via 🤗 Transformers (free, runs on CPU/GPU)
 
+---
+
+## Run
+- **streamlit run app.py**
