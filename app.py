@@ -27,8 +27,6 @@ import streamlit as st
 import arxiv
 from dotenv import load_dotenv
 
-from dataclasses import asdict
-
 # =====================
 # Environment & storage
 # =====================
