@@ -1,0 +1,8 @@
+streamlit
+arxiv
+python-dotenv
+# optional backends
+google-generativeai
+transformers
+torch
+accelerate

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+# Jupyter
+.ipynb_checkpoints/
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+# Builds
+build/
+dist/
+# Data cache examples
+.mypy_cache/
+.pytest_cache/
+papers/
