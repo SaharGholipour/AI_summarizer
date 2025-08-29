@@ -1,4 +1,4 @@
-# AI_summarizer
+# Summarizer Web App (Streamlit)
 Search arXiv, preview papers, and generate short technical summaries. Choose between a free **local HuggingFace** summarizer or **Google Gemini (legacy SDK)** if you have an API key.
 
 ## Features
